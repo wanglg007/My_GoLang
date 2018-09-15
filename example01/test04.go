@@ -1,4 +1,5 @@
 package main
+//(4)Go字符串格式化
 //Go对字符串格式化提供了良好的支持。
 import (
 	"fmt"

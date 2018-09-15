@@ -1,5 +1,5 @@
 package main
-//Go状态协程
+//(1)Go状态协程
 import (
 	"math/rand"
 	"sync/atomic"

@@ -1,4 +1,5 @@
 package main
+//(7)Go Exit
 //使用 os.Exit 可以给定一个状态，然后立刻退出程序运行。
 import (
 	"fmt"

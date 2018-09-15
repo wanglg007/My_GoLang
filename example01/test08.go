@@ -1,4 +1,5 @@
 package main
+//(8)Go for循环
 //for循环是Go语言唯一的循环结构。这里有三个基本的for循环类型。
 import "fmt"
 

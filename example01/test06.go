@@ -1,4 +1,5 @@
 package main
+//(6)Go Defer
 //Defer用来保证一个函数调用会在程序执行的最后被调用。通常用于资源清理工作。
 
 import (

@@ -1,4 +1,5 @@
 package main
+//(3)Go 字符串操作函数
 //strings 标准库提供了很多字符串操作相关的函数。
 import (
 	"fmt"
