@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ab3428-41f7-4ab1-88bf-1231d326b2cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/example02/test24.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example02/test25.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example02/test26.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example02/test27.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example02/test28.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example02/test29.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example02/test30.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example02/test31.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example02/test32.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test30.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/example02/test30.go">
+      <file leaf-file-name="test32.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example02/test32.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="114">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -76,6 +71,8 @@
         <option value="$PROJECT_DIR$/example02/test28.go" />
         <option value="$PROJECT_DIR$/example02/test29.go" />
         <option value="$PROJECT_DIR$/example02/test30.go" />
+        <option value="$PROJECT_DIR$/example02/test31.go" />
+        <option value="$PROJECT_DIR$/example02/test32.go" />
       </list>
     </option>
   </component>
@@ -142,31 +139,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build test29.go">
-    <configuration name="go build test25.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="My_GoLang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/example02/test25.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build test26.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="My_GoLang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/example02/test26.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build test27.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="My_GoLang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/example02/test27.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build test32.go">
     <configuration name="go build test28.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="My_GoLang" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -183,20 +156,44 @@
       <filePath value="$PROJECT_DIR$/example02/test29.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
+    <configuration name="go build test30.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="My_GoLang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/example02/test30.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build test31.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="My_GoLang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/example02/test31.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build test32.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="My_GoLang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/example02/test32.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
     <list>
-      <item itemvalue="Go Build.go build test25.go" />
-      <item itemvalue="Go Build.go build test26.go" />
-      <item itemvalue="Go Build.go build test27.go" />
       <item itemvalue="Go Build.go build test28.go" />
       <item itemvalue="Go Build.go build test29.go" />
+      <item itemvalue="Go Build.go build test30.go" />
+      <item itemvalue="Go Build.go build test31.go" />
+      <item itemvalue="Go Build.go build test32.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build test32.go" />
+        <item itemvalue="Go Build.go build test31.go" />
+        <item itemvalue="Go Build.go build test30.go" />
         <item itemvalue="Go Build.go build test29.go" />
         <item itemvalue="Go Build.go build test28.go" />
-        <item itemvalue="Go Build.go build test27.go" />
-        <item itemvalue="Go Build.go build test26.go" />
-        <item itemvalue="Go Build.go build test25.go" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +201,7 @@
     <frame x="412" y="1" width="1346" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17729394" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17729394" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
@@ -225,7 +222,7 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3460838" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.59016395" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17729394" />
@@ -477,8 +474,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example02/test30.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="95">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example02/test31.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#14#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example02/test32.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
