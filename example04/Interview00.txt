@@ -784,7 +784,6 @@ panic 需要等defer 结束后才会向上传递。 出现panic恐慌时候，�
 panic: 触发异常
 
 2 以下代码有什么问题，说明原因。
-
 type student struct {
     Name string
     Age  int
@@ -801,8 +800,8 @@ funcpase_student() {
 }
 
 考点：foreach
-解答：
-这样的写法初学者经常会遇到的，很危险！ 与Java的foreach一样，都是使用副本的方式。所以m[stu.Name]=&stu实际上一致指向同一个指针， 最终该指针的值为遍历的最后一个struct的值拷贝。 就像想修改切片元素的属性：
+解答：这样的写法初学者经常会遇到的，很危险！ 与Java的foreach一样，都是使用副本的方式。所以m[stu.Name]=&stu实际上一致指向同一个指针，
+最终该指针的值为遍历的最后一个struct的值拷贝。 就像想修改切片元素的属性：
 
 for _, stu := rangestus {
     stu.Age = stu.Age+10}
@@ -833,7 +832,6 @@ func pase_student() {
 }
 
 3 下面的代码会输出什么，并说明原因
-
 func main() {
     runtime.GOMAXPROCS(1)
     wg := sync.WaitGroup{}
@@ -853,13 +851,13 @@ func main() {
 }
 
 考点：go执行的随机性和闭包
-解答：
-谁也不知道执行后打印的顺序是什么样的，所以只能说是随机数字。 但是A:均为输出10，B:从0~9输出(顺序不定)。 第一个go func中i是外部for的一个变量，地址不变化。遍历完成后，最终i=10。 故go func执行时，i的值始终是10。
-
+解答：谁也不知道执行后打印的顺序是什么样的，所以只能说是随机数字。 但是A:均为输出10，B:从0~9输出(顺序不定)。 第一个go func中i是外部for的一个变量，
+地址不变化。遍历完成后，最终i=10。 故go func执行时，i的值始终是10。
 第二个go func中i是函数参数，与外部for中的i完全是两个变量。 尾部(i)将发生值拷贝，go func内部指向值拷贝地址。
-4 下面代码会输出什么？
 
-type People struct{}func (p *People)ShowA() {
+4 下面代码会输出什么？
+type People struct{}
+func (p *People)ShowA() {
     fmt.Println("showA")
     p.ShowB()
 }
@@ -879,7 +877,8 @@ funcmain() {
 
 考点：go的组合继承
 解答：
-这是Golang的组合模式，可以实现OOP的继承。 被组合的类型People所包含的方法虽然升级成了外部类型Teacher这个组合类型的方法（一定要是匿名字段），但它们的方法(ShowA())调用时接受者并没有发生变化。 此时People类型并不知道自己会被什么类型组合，当然也就无法调用方法时去使用未知的组合者Teacher类型的功能。
+这是Golang的组合模式，可以实现OOP的继承。 被组合的类型People所包含的方法虽然升级成了外部类型Teacher这个组合类型的方法（一定要是匿名字段），
+但它们的方法(ShowA())调用时接受者并没有发生变化。 此时People类型并不知道自己会被什么类型组合，当然也就无法调用方法时去使用未知的组合者Teacher类型的功能。
 showAshowB
 
 5 下面代码会触发异常吗？请详细说明
