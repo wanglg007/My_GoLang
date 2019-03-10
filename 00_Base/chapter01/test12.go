@@ -22,7 +22,7 @@ func main() {
 	var n2 int
 	n1, _ = strconv.ParseInt(str2, 10, 64)
 	n2 = int(n1)
-	fmt.Printf("n1 type %T  n1=%v\n", n1, n1)
+	fmt.Printf("n1 type %T n1=%v\n", n1, n1)
 	fmt.Printf("n2 type %T n2=%v\n", n2, n2)
 
 	var str3 string = "123.456"
