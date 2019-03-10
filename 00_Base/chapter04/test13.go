@@ -1,6 +1,6 @@
 package main
 
-//(4.13)打印地址及其值
+//(4.13)内置函数
 import (
 	"fmt"
 )

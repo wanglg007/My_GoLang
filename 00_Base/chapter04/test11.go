@@ -1,6 +1,6 @@
 package main
 
-//(4.11)系统函数
+//(4.11)字符串中系统函数
 import (
 	"fmt"
 	"strconv"

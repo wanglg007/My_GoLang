@@ -22,7 +22,6 @@ func main() {
 	fmt.Printf("秒=%v\n", now.Second())
 
 	//格式化日期时间
-
 	fmt.Printf("当前年月日 %d-%d-%d %d:%d:%d \n", now.Year(),
 		now.Month(), now.Day(), now.Hour(), now.Minute(), now.Second())
 

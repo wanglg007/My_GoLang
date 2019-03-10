@@ -1,6 +1,6 @@
 package main
 
-//(4.1)函数
+//(4.1)函数调用
 import (
 	"fmt"
 )

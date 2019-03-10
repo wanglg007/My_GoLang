@@ -9,7 +9,7 @@ import (
 func main() {
 
 	fmt.Println("utils.go Num~=", utils.Num1)
-	//请大家完成这样一个需求:输入两个数,再输入一个运算符(+,-,*,/)，得到结果.。
+	//请完成这样一个需求:输入两个数,再输入一个运算符(+,-,*,/)，得到结果。
 	//分析思路....
 	var n1 float64 = 1.2
 	var n2 float64 = 2.3

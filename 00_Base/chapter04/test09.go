@@ -1,12 +1,11 @@
 package main
 
-//(4.9)函数作用域
+//(4.9)变量作用域
 import (
 	"fmt"
 )
 
-//函数外部声明/定义的变量叫全局变量，
-//作用域在整个包都有效，如果其首字母为大写，则作用域在整个程序有效
+//函数外部声明/定义的变量叫全局变量，作用域在整个包都有效，如果其首字母为大写，则作用域在整个程序有效
 var age09 int = 50
 var Name string = "jack~"
 
@@ -20,7 +19,6 @@ func test09() {
 }
 
 func main() {
-
 	fmt.Println("age=", age)   //  50
 	fmt.Println("Name=", Name) // jack~
 	test09()

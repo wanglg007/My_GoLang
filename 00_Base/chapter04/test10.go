@@ -1,6 +1,6 @@
 package main
 
-//(4.10)error
+//(4.10)错误处理
 import (
 	"errors"
 	"fmt"
