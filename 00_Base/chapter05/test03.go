@@ -1,6 +1,6 @@
 package main
 
-//(5.2)练习
+//(5.2)数组案例
 import (
 	"fmt"
 	"math/rand"

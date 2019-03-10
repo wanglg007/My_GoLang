@@ -1,6 +1,6 @@
 package main
 
-//(5.4)for-range
+//(5.4)遍历数组
 import (
 	"fmt"
 )

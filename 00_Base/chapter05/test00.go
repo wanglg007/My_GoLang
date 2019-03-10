@@ -1,6 +1,6 @@
 package main
 
-//(5.1)使用数组的方式
+//(5.1)定义数组
 import (
 	"fmt"
 )
