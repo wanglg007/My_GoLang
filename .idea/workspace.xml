@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ab3428-41f7-4ab1-88bf-1231d326b2cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/00_Base/chapter06/ReadMe.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_Base/chapter01/test01.go" beforeDir="false" afterPath="$PROJECT_DIR$/00_Base/chapter01/test01.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_Base/chapter01/test02.go" beforeDir="false" afterPath="$PROJECT_DIR$/00_Base/chapter01/test02.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_Base/chapter01/test04.go" beforeDir="false" afterPath="$PROJECT_DIR$/00_Base/chapter01/test04.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_Base/chapter01/test08.go" beforeDir="false" afterPath="$PROJECT_DIR$/00_Base/chapter01/test08.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_Base/chapter01/test09.go" beforeDir="false" afterPath="$PROJECT_DIR$/00_Base/chapter01/test09.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_Base/chapter01/test10.go" beforeDir="false" afterPath="$PROJECT_DIR$/00_Base/chapter01/test10.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00_Base/chapter02/test00.go" beforeDir="false" afterPath="$PROJECT_DIR$/00_Base/chapter02/test00.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00_Base/chapter02/test04.go" beforeDir="false" afterPath="$PROJECT_DIR$/00_Base/chapter02/test04.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,10 +15,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/00_Base/chapter01/test11.go">
+        <entry file="file://$PROJECT_DIR$/00_Base/chapter02/test04.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+            <state relative-caret-position="395">
+              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -45,11 +40,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/00_Base/chapter02/test04.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter02/test05.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter02/test06.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter02/ReadMe.txt" />
-        <option value="$PROJECT_DIR$/00_Base/chapter02/test00.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter02/test07.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter02/test08.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter02/test09.go" />
@@ -96,6 +89,8 @@
         <option value="$PROJECT_DIR$/00_Base/chapter01/test08.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter01/test09.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter01/test10.go" />
+        <option value="$PROJECT_DIR$/00_Base/chapter02/test00.go" />
+        <option value="$PROJECT_DIR$/00_Base/chapter02/test04.go" />
       </list>
     </option>
   </component>
@@ -130,7 +125,7 @@
               <item name="My_GoLang" type="b2602c69:ProjectViewProjectNode" />
               <item name="My_GoLang" type="462c0819:PsiDirectoryNode" />
               <item name="00_Base" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter01" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="My_GoLang" type="b2602c69:ProjectViewProjectNode" />
@@ -299,64 +294,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter02/test09.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-194">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter02/ReadMe.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="4" selection-start-column="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter03/test00.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter03/test01.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="e#14#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter03/test02.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-133">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding>
-            <element signature="e#15#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter03/test03.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-          <folding>
-            <element signature="e#14#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter03/test04.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/00_Base/chapter03/test05.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -720,6 +657,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="47" column="24" lean-forward="true" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter01/test12.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter01/test13.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter02/test00.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter02/test01.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter02/test02.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter02/test03.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!block;n#test#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter02/test04.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
         </state>
       </provider>
     </entry>

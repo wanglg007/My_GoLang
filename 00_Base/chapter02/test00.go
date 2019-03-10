@@ -24,10 +24,10 @@ func main() {
 
 	// ++ 和 --的使用
 	var i int = 10
-	i++                  // 等价 i = i + 1
-	fmt.Println("i=", i) // 11
-	i--                  // 等价 i = i - 1
-	fmt.Println("i=", i) // 10
+	i++                  		// 等价 i = i + 1
+	fmt.Println("i=", i) 	// 11
+	i--                  		// 等价 i = i - 1
+	fmt.Println("i=", i) 	// 10
 
 	if i > 0 {
 		fmt.Println("ok")
