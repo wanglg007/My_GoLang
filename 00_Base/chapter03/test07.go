@@ -1,6 +1,6 @@
 package main
 
-//(3.7)goto
+//(3.7)goto与return
 import (
 	"fmt"
 )

@@ -1,6 +1,6 @@
 package main
 
-//(3.2)switch
+//(3.2)switch分支控制
 import (
 	"fmt"
 )
@@ -12,10 +12,8 @@ func test(char byte) byte {
 
 func main() {
 
-	// 	案例：
-	// 请编写一个程序，该程序可以接收一个字符，比如: a,b,c,d,e,f,g
+	// 	案例：请编写一个程序，该程序可以接收一个字符，比如: a,b,c,d,e,f,g
 	// a表示星期一，b表示星期二 …  根据用户的输入显示相依的信息.
-
 	// 要求使用 switch 语句完成
 
 	//分析思路

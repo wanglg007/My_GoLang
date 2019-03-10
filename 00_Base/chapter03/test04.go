@@ -1,6 +1,6 @@
 package main
 
-//(3.4)
+//(3.4)实现while功能
 import "fmt"
 
 func main() {
