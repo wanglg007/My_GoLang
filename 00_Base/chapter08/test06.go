@@ -1,5 +1,6 @@
 package main
 
+//(8.6)方法的声明和使用
 import (
 	"fmt"
 )

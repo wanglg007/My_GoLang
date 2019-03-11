@@ -12,6 +12,7 @@ type Person02 struct {
 
 func main() {
 	//方式1
+	//var person Person02
 
 	//方式2
 	p2 := Person02{"mary", 20}

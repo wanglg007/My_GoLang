@@ -1,5 +1,6 @@
 package main
 
+//(8.8)方法的使用和传参的原理
 import (
 	"fmt"
 )
@@ -8,8 +9,7 @@ type Circle struct {
 	radius float64
 }
 
-//2)声明一个方法area和Circle绑定，可以返回面积。
-
+//声明一个方法area和Circle绑定，可以返回面积。
 func (c Circle) area() float64 {
 	return 3.14 * c.radius * c.radius
 }

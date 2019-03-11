@@ -1,5 +1,6 @@
 package main
 
+//(8.5)结构体类型转换
 import "fmt"
 import "encoding/json"
 
@@ -26,7 +27,7 @@ func main() {
 	monster := Monster05{"牛魔王", 500, "芭蕉扇~"}
 
 	//2. 将monster变量序列化为 json格式字串
-	//   json.Marshal 函数中使用反射，这个讲解反射时，我会详细介绍
+	//   json.Marshal 函数中使用反射
 	jsonStr, err := json.Marshal(monster)
 	if err != nil {
 		fmt.Println("json 处理错误 ", err)
