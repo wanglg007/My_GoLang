@@ -20,8 +20,7 @@ func main() {
 	fmt.Println(p2)
 
 	//方式3-&
-	//案例: var person *Person = new (Person)
-
+	//案例: var person *Person02 = new (Person02)
 	var p3 *Person02 = new(Person02)
 	//因为p3是一个指针，因此标准的给字段赋值方式
 	//(*p3).Name = "smith" 也可以这样写 p3.Name = "smith"
@@ -36,10 +35,10 @@ func main() {
 	fmt.Println(*p3)
 
 	//方式4-{}
-	//案例: var person *Person = &Person{}
+	//案例: var person *Person02 = &Person02{}
 
 	//下面的语句，也可以直接给字符赋值
-	//var person *Person = &Person{"mary", 60}
+	//var person *Person02 = &Person02{"mary", 60}
 	var person *Person02 = &Person02{}
 
 	//因为person 是一个指针，因此标准的访问字段的方法
