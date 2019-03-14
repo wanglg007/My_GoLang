@@ -2,10 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ab3428-41f7-4ab1-88bf-1231d326b2cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/00_Base/chapter16/redis00.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00_Base/chapter16/redis01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00_Base/chapter16/redis02.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/00_Base/chapter16/redis03.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/Josephu/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/binarytree/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/circelqueue/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/circlesinglelink/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/doublelink/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/expStack/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/hashtable/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/insertsort/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/migong/demo01/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/migong/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/quicksort/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/selectsort/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/singlelink/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/singlequeue/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/sparsearray/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter17/stack/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_Base/chapter18/ReadMe.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +31,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/00_Base/chapter16/redis03.go">
+        <entry file="file://$PROJECT_DIR$/00_Base/chapter18/ReadMe.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-              <folding>
-                <element signature="e#14#67#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -45,9 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/00_Base/chapter11/view/customerView.go" />
-        <option value="$PROJECT_DIR$/00_Base/chapter12/ReadMe.txt" />
-        <option value="$PROJECT_DIR$/00_Base/chapter12/test00.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter12/test01.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter12/test02.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter12/test03.go" />
@@ -96,6 +104,9 @@
         <option value="$PROJECT_DIR$/00_Base/chapter16/redis01.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter16/redis02.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter16/redis03.go" />
+        <option value="$PROJECT_DIR$/00_Base/chapter17/ReadMe.txt" />
+        <option value="$PROJECT_DIR$/00_Base/chapter17/sparsearray/main.go" />
+        <option value="$PROJECT_DIR$/00_Base/chapter18/ReadMe.txt" />
       </list>
     </option>
   </component>
@@ -130,7 +141,7 @@
               <item name="My_GoLang" type="b2602c69:ProjectViewProjectNode" />
               <item name="My_GoLang" type="462c0819:PsiDirectoryNode" />
               <item name="00_Base" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter16" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter18" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,11 +164,11 @@
       <recent name="C:\Users\wanglg\go\src\github.com\wanglg007\My_GoLang\00_Base\chapter01" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wanglg\go\src\github.com\wanglg007\My_GoLang\00_Base\chapter18" />
+      <recent name="C:\Users\wanglg\go\src\github.com\wanglg007\My_GoLang\00_Base\chapter17" />
       <recent name="C:\Users\wanglg\go\src\github.com\wanglg007\My_GoLang\00_Base\chapter16" />
       <recent name="C:\Users\wanglg\go\src\github.com\wanglg007\My_GoLang\00_Base\chapter16\tcpdemo" />
       <recent name="C:\Users\wanglg\go\src\github.com\wanglg007\My_GoLang\00_Base\chapter15" />
-      <recent name="C:\Users\wanglg\go\src\github.com\wanglg007\My_GoLang\00_Base\chapter14" />
-      <recent name="C:\Users\wanglg\go\src\github.com\wanglg007\My_GoLang\00_Base\chapter13\test00" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -259,7 +270,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3291815" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291815" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -293,30 +304,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter12/ReadMe.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter13/test00/test/sub_test.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter13/test00/test/cal_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter13/test00/test/cal.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/00_Base/chapter13/test00/main/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-80">
@@ -664,6 +651,33 @@
           <folding>
             <element signature="e#14#67#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter17/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter17/binarytree/main.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter17/sparsearray/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="27" />
+          <folding>
+            <element signature="e#13#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/00_Base/chapter18/ReadMe.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
