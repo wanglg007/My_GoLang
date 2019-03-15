@@ -26,7 +26,7 @@ type ConcurrentMap interface {
 
 // myConcurrentMap 代表ConcurrentMap接口的实现类型。
 type myConcurrentMap struct {
-	concurrency int
+	concurrency int				//表示并发量，也代表了segments的长度
 	segments    []Segment
 	total       uint64
 }

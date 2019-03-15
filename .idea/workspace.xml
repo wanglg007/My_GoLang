@@ -2,156 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53ab3428-41f7-4ab1-88bf-1231d326b2cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter01/test00.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter01/test01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter02/talk/v2/chatbot/chatbot.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter02/talk/v2/chatbot/chinese.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter02/talk/v2/chatbot/english.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter02/talk/v2/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter03/apipe/apipe.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter03/npipe/npipe.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter03/signal/signal.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter03/socket/tcp_socket.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chan0cap/chan0cap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chanbase/v1/chanbase1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chanbase/v2/chanbase2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chanbase/v3/chanbase3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chanclose/chanclose.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chanconv/chanconv.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chanselect/eval/selecteval.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chanselect/for/selectfor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chanselect/random/selectrandom.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chanval/v1/chanval1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/chanval/v2/chanval2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/gobase/v1/gobase1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/gobase/v2/gobase2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/gobase/v3/gobase3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/gobase/v4/gobase4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/gobase/v5/gobase5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/loadgen/gen.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/loadgen/gen_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/loadgen/lib/base.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/loadgen/lib/caller.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/loadgen/lib/gotickets.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/loadgen/parameter.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/loadgen/testhelper/comm.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/loadgen/testhelper/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/ticker/tickercase.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/timer/base/timerbase.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/timer/timeout/v1/chantimeout1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter04/timer/timeout/v2/chantimeout2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/base.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/bucket.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/bucket_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/cmap.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/cmap_benchmark_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/cmap_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/pair.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/pair_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/redistributor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/segment.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/segment_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/utils.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/datafile/v1/datafile1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/datafile/v1/datafile1_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/datafile/v2/datafile2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/datafile/v2/datafile2_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/datafile/v3/datafile3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/datafile/v3/datafile3_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/lock/repeat/lock/repeatedlylock.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/lock/repeat/unlock/repeatedlyunlock.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/lock/rlock/rlock.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/once/once.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/pool/pool.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/value/copy/copiedvalue.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/value/cow/cow.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/value/cow/cow_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/ds/showds.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/base/base.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/base/format.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/base/level.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/base/location.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/base/type.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/field/cmd/log_xfields_generator.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/field/field.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/field/xfields.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/logger.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/logger_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/logrus/logrus.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/log/logrus/logrus_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/pds/showpds.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/pkgtool/envir.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/pkgtool/envir_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/pkgtool/fpath.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/pkgtool/ipath.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/pkgtool/pnode.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/pkgtool/util.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/pkgtool/util_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/pprof/profiling.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/helper/pprof/profiling_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/errors/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/examples/finder/finder.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/examples/finder/internal/client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/examples/finder/internal/helper.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/examples/finder/internal/module.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/examples/finder/internal/parser.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/examples/finder/internal/processor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/examples/finder/monitor/monitor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/base.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/data.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/data_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/fake_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/analyzer/analyzer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/analyzer/analyzer_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/analyzer/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/analyzer/errors_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/downloader/downloader.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/downloader/downloader_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/downloader/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/downloader/errors_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/pipeline/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/pipeline/errors_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/pipeline/pipeline.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/local/pipeline/pipeline_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/maddr.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/maddr_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/mid.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/mid_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/mtype.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/mtype_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/registrar.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/registrar_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/score.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/score_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/sn.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/sn_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/stub/base.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/stub/stub.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/module/stub/stub_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/args.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/args_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/domain.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/domain_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/errors_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/scheduler.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/scheduler_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/status.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/status_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/summary.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/summary_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/buffer/buffer.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/buffer/buffer_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/buffer/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/buffer/pool.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/buffer/pool_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/cookie/cookiejar.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/cookie/cookiejar_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/reader/reader.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/reader/reader_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Concurrent/chapter03/apipe/apipe.go" beforeDir="false" afterPath="$PROJECT_DIR$/01_Concurrent/chapter03/apipe/apipe.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/cmap.go" beforeDir="false" afterPath="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/cmap.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -177,8 +30,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/00_Base/chapter14/ReadMe.txt" />
-        <option value="$PROJECT_DIR$/00_Base/chapter14/test00.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter14/test01.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter14/test02.go" />
         <option value="$PROJECT_DIR$/00_Base/chapter14/test03.go" />
@@ -228,13 +79,15 @@
         <option value="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/scheduler_test.go" />
         <option value="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/buffer/buffer.go" />
         <option value="$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/toolkit/buffer/pool.go" />
+        <option value="$PROJECT_DIR$/01_Concurrent/chapter03/apipe/apipe.go" />
+        <option value="$PROJECT_DIR$/01_Concurrent/chapter05/cmap/cmap.go" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="424" />
-    <option name="y" value="32" />
-    <option name="width" value="1346" />
+    <option name="x" value="344" />
+    <option name="y" value="310" />
+    <option name="width" value="1636" />
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -245,7 +98,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,45 +105,11 @@
               <item name="My_GoLang" type="b2602c69:ProjectViewProjectNode" />
               <item name="My_GoLang" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="My_GoLang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My_GoLang" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Concurrent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="My_GoLang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My_GoLang" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="My_GoLang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My_GoLang" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-              <item name="talk" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="My_GoLang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My_GoLang" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-              <item name="talk" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="My_GoLang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="My_GoLang" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-              <item name="talk" type="462c0819:PsiDirectoryNode" />
-              <item name="v2" type="462c0819:PsiDirectoryNode" />
-              <item name="chatbot" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build signal.go">
+  <component name="RunManager" selected="Go Build.go build once.go">
     <configuration name="go build apipe.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="My_GoLang" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -338,29 +156,29 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build once.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="My_GoLang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/01_Concurrent/chapter05/once/once.go" />
+      <package value="github.com/wanglg007/My_GoLang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build repeatedlylock.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="My_GoLang" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/01_Concurrent/chapter05/lock/repeat/lock/repeatedlylock.go" />
+      <package value="github.com/wanglg007/My_GoLang" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build signal.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="My_GoLang" />
       <working_directory value="$PROJECT_DIR$/" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/01_Concurrent/chapter03/signal/signal.go" />
-      <package value="github.com/wanglg007/My_GoLang" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build test00.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="My_GoLang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/01_Concurrent/chapter01/test00.go" />
-      <package value="github.com/wanglg007/My_GoLang" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build test00.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="My_GoLang" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/00_Base/chapter15/test00.go" />
       <package value="github.com/wanglg007/My_GoLang" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
@@ -375,19 +193,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build test00.go" />
-      <item itemvalue="Go Build.go build test00.go (1)" />
       <item itemvalue="Go Build.go build test01.go" />
       <item itemvalue="Go Build.go build apipe.go" />
       <item itemvalue="Go Build.go build signal.go" />
+      <item itemvalue="Go Build.go build repeatedlylock.go" />
+      <item itemvalue="Go Build.go build once.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build once.go" />
+        <item itemvalue="Go Build.go build repeatedlylock.go" />
         <item itemvalue="Go Build.go build signal.go" />
         <item itemvalue="Go Build.go build apipe.go" />
         <item itemvalue="Go Build.go build test01.go" />
-        <item itemvalue="Go Build.go build test00.go (1)" />
-        <item itemvalue="Go Build.go build test00.go" />
       </list>
     </recent_temporary>
   </component>
@@ -401,9 +219,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21376519" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27044535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -423,62 +241,11 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1866252" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4790528" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32969034" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32969034" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter16/chatsys/client/process/smsProcess.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter16/chatsys/client/process/userProcess.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter16/chatsys/client/main/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter16/chatsys/server/main/clientProcessor(1).go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/00_Base/chapter16/chatsys/server/main/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/00_Base/chapter16/chatsys/server/main/redis.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -556,12 +323,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter02/main.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter02/talk/v1/simple.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter02/main.go" />
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter02/talk/v1/simple.go" />
     <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter02/talk/v2/chatbot/english.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -592,13 +355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter03/apipe/apipe.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-817">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter03/socket/tcp_socket.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -612,27 +368,8 @@
     <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter04/timer/base/timerbase.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter04/chan0cap/chan0cap.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter05/value/cow/cow.go">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter05/cmap/base.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter05/cmap/bucket.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2645" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter06/webcrawler/scheduler/args.go">
       <provider selected="true" editor-type-id="text-editor">
@@ -761,6 +498,73 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="33" column="13" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter03/apipe/apipe.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!block;n#runCmd#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter04/chan0cap/chan0cap.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter05/lock/repeat/lock/repeatedlylock.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter05/datafile/v2/datafile2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="65" column="11" lean-forward="true" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter05/datafile/v3/datafile3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="68" column="9" lean-forward="true" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter05/once/once.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter05/cmap/cmap.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter05/cmap/bucket.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-684" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_Concurrent/chapter05/cmap/base.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>

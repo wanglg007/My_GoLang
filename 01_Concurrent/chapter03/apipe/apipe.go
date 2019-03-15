@@ -45,12 +45,15 @@ func runCmdWithPipe() {
 func runCmd() {
 	useBufferedIO := false
 	fmt.Println("Run command `echo -n \"My first command comes from golang.\"`: ")
+	//执行操作系统命令，并在此建立管道
 	cmd0 := exec.Command("echo", "-n", "My first command comes from golang.")
+	//创建一个能够获取此命令的输出管道
 	stdout0, err := cmd0.StdoutPipe()
 	if err != nil {
 		fmt.Printf("Error: Couldn't obtain the stdout pipe for command No.0: %s\n", err)
 		return
 	}
+	//启动命令
 	if err := cmd0.Start(); err != nil {
 		fmt.Printf("Error: The command No.0 can not be startup: %s\n", err)
 		return
@@ -59,6 +62,7 @@ func runCmd() {
 		var outputBuf0 bytes.Buffer
 		for {
 			tempOutput := make([]byte, 5)
+			//获取命令的输出
 			n, err := stdout0.Read(tempOutput)
 			if err != nil {
 				if err == io.EOF {
